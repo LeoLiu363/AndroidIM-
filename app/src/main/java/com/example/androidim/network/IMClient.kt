@@ -13,7 +13,7 @@ import java.net.Socket
  * 负责与服务端建立连接、发送和接收消息
  */
 class IMClient(
-    private val serverHost: String = "YOUR_SERVER_IP",  // 服务端 IP
+    private val serverHost: String = "47.107.145.236",  // 服务端 IP
     private val serverPort: Int = 8889                  // 服务端端口
 ) {
     
