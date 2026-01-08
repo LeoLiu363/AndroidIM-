@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IM即时通讯</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="send">发送</string>
+    <string name="message">消息</string>
+    <string name="online_users">在线用户</string>
+    <string name="friends">好友列表</string>
+    <string name="add_friend">添加好友</string>
+    <string name="new_friends">新朋友</string>
+    <string name="friend_target_user_id_hint">请输入对方用户名</string>
+    <string name="friend_greeting_hint">打个招呼（可选）</string>
+    <string name="friend_remark_hint">备注名（可选）</string>
+    <string name="friend_apply_send">发送申请</string>
+    <string name="friend_apply_sending">正在发送好友申请…</string>
+    <string name="friend_apply_success">好友申请已发送</string>
+    <string name="friend_apply_failed">好友申请发送失败</string>
+    <string name="friend_handle_accept">同意</string>
+    <string name="friend_handle_reject">拒绝</string>
+    <string name="friend_handle_success">已处理好友申请</string>
+    <string name="friend_handle_failed">处理好友申请失败</string>
+    <string name="chat">聊天</string>
+    <string name="press_again_to_exit">再按一次退出应用</string>
+    <string name="logout">退出登录</string>
+</resources>
